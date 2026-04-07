@@ -1,0 +1,17 @@
+/Users/dijondmk/Desktop/dotnet-react-course/Application/bin/Debug/net9.0/Application.deps.json
+/Users/dijondmk/Desktop/dotnet-react-course/Application/bin/Debug/net9.0/Application.dll
+/Users/dijondmk/Desktop/dotnet-react-course/Application/bin/Debug/net9.0/Application.pdb
+/Users/dijondmk/Desktop/dotnet-react-course/Application/bin/Debug/net9.0/Domain.dll
+/Users/dijondmk/Desktop/dotnet-react-course/Application/bin/Debug/net9.0/Persistence.dll
+/Users/dijondmk/Desktop/dotnet-react-course/Application/bin/Debug/net9.0/Domain.pdb
+/Users/dijondmk/Desktop/dotnet-react-course/Application/bin/Debug/net9.0/Persistence.pdb
+/Users/dijondmk/Desktop/dotnet-react-course/Application/obj/Debug/net9.0/Application.csproj.AssemblyReference.cache
+/Users/dijondmk/Desktop/dotnet-react-course/Application/obj/Debug/net9.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dijondmk/Desktop/dotnet-react-course/Application/obj/Debug/net9.0/Application.AssemblyInfoInputs.cache
+/Users/dijondmk/Desktop/dotnet-react-course/Application/obj/Debug/net9.0/Application.AssemblyInfo.cs
+/Users/dijondmk/Desktop/dotnet-react-course/Application/obj/Debug/net9.0/Application.csproj.CoreCompileInputs.cache
+/Users/dijondmk/Desktop/dotnet-react-course/Application/obj/Debug/net9.0/Applicat.44B5EDA2.Up2Date
+/Users/dijondmk/Desktop/dotnet-react-course/Application/obj/Debug/net9.0/Application.dll
+/Users/dijondmk/Desktop/dotnet-react-course/Application/obj/Debug/net9.0/refint/Application.dll
+/Users/dijondmk/Desktop/dotnet-react-course/Application/obj/Debug/net9.0/Application.pdb
+/Users/dijondmk/Desktop/dotnet-react-course/Application/obj/Debug/net9.0/ref/Application.dll
