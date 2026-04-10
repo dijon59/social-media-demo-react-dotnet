@@ -6,3 +6,4 @@ API/obj*
 Application/obj*
 Domain/obj*
 Persistence/obj*
+.vscode/
