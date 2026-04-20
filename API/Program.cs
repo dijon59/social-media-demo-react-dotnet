@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Persistence;
+using Application.Activities.Queries;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +13,7 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 });
 
 builder.Services.AddCors();
+builder.Services.AddMediatR(x => x.RegisterServicesFromAssemblyContaining<GetActivityList.Handler>());
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 
 var app = builder.Build();
@@ -24,6 +26,7 @@ app.MapControllers();
 
 using var scope = app.Services.CreateScope(); // Create a scope to get the services we need to seed the database with some initial data
 var services = scope.ServiceProvider;
+
 try
 {
     var context = services.GetRequiredService<AppDbContext>(); // Get the database context from the service provider
