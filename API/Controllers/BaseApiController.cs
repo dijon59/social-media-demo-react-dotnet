@@ -11,5 +11,4 @@ public class BaseApiController : ControllerBase
     protected IMediator Mediator =>
         _mediator ??= HttpContext.RequestServices.GetService<IMediator>() ?? 
             throw new Exception("Mediator not found");
-
 }
